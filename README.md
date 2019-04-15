@@ -1,2 +1,2 @@
-# Tutorial-2 ;)
+# Tutorial-2
 testing git
